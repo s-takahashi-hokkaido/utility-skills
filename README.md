@@ -44,4 +44,4 @@ ln -s "$PWD/utility-skills/skills/<skill-name>" ~/.claude/skills/<skill-name>
 
 | スキル | 概要 |
 | --- | --- |
-| （未作成） | |
+| [design-technique-advisor](skills/design-technique-advisor/) | DDD・TDD・Clean Architecture などの設計技法を、プロジェクトの状況に照らして「適用する／部分的に適用／適用しない」で判定する |

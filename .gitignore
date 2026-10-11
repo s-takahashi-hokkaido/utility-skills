@@ -19,3 +19,6 @@ node_modules/
 .claude/settings.local.json
 tmp/
 *.log
+
+# skill-creator の評価用ワークスペース
+skills/*-workspace/
